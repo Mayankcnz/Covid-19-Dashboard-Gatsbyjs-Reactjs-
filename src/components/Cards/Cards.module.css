@@ -1,0 +1,30 @@
+.container {
+  margin: 50px 0; /**50px top and bottom and 0 pixels left and right */
+}
+
+.dataPicker {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.chart {
+  padding-bottom: 70px;
+}
+
+.card {
+  background-color: rgb(37, 36, 36) !important;
+  color: white !important;
+  margin: 0.5% !important;
+}
+
+.infected {
+  border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+}
+
+.recovered {
+  border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+}
+
+.deaths {
+  border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
